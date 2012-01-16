@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the n1400194_types feature.
+ */
+
+include_once('n1400194_types.features.inc');

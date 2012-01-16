@@ -1,0 +1,27 @@
+name = n1400194
+core = 7.x
+description = A distro demonstrating a countries.module issue.
+
+; Core
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Contrib
+dependencies[] = admin
+dependencies[] = auto_nodetitle
+dependencies[] = countries
+dependencies[] = ctools
+dependencies[] = diff
+dependencies[] = entity
+dependencies[] = entityreference
+dependencies[] = features
+dependencies[] = strongarm
+dependencies[] = token
+
+; Features
+dependencies[] = n1400194_types

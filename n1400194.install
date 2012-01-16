@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * Implements hook_install().
+ */
+function orelt_install() {
+}
