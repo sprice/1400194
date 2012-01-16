@@ -10,4 +10,4 @@ A simple Drupal distribution to reproduce [#1400194: Country field tokens are br
 
 Expected Result: A new node of type `beta` with a title following the `token.module` pattern `[node:field_alpha] - [node:field_country]`
 
-Actual Result: A new node of type `beta` with a title that includes the pattern ``[node:field_alpha] -` and an error as described in the [original issue](http://drupal.org/node/1400194)
+Actual Result: A new node of type `beta` with a title that includes the pattern `[node:field_alpha] -` and an error as described in the [original issue](http://drupal.org/node/1400194).
